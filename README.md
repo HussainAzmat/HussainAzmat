@@ -17,7 +17,6 @@
 <p align="left">
 <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Python-Dark.svg" width="40" height="40"/>
 <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/GoLang.svg" width="40" height="40"/>
-<img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Flask-Dark.svg" width="40" height="40"/>
 <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Debian-Dark.svg" width="40" height="40"/>
 <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/DiscordBots.svg" width="40" height="40"/>
 <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/HTML.svg" width="40" height="40"/>
