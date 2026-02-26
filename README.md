@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Azmat Hussain</h1>
-<h3 align="center">A passionate wannabe developer.</h3>
+<h3 align="center">Coding to vibe</h3>
 
 - 🌱 I’m currently learning **Agentic AI**
 
 - 💬 Ask me about **python**
 
-- 📫 How to reach me **azmathussain383@gmail.com**
+- 📫 How to reach me **azmat@orygin.ai**
 
 - ⚡ Fun fact **I can hibernate**
 
